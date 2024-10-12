@@ -1,0 +1,6 @@
+Hello lazor, this is line 1. 
+This is line two with some numbers: 12345.
+Third line just to conclude.
+This is the append line 4.
+Appending line 5 with a number: 2540.
+I just added this as line six to show it really works.
